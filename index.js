@@ -8,4 +8,5 @@ for (let i = 0; i <= 42; i++) {
     console.log(i, fib(i))
 }
 
-let k = 10;
+let k = 42;
+// another change
