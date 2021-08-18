@@ -9,3 +9,4 @@ for (let i = 0; i <= 42; i++) {
 }
 
 let k = 10;
+const b = 20;var h= 2222;
